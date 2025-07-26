@@ -1,0 +1,62 @@
+Assignment 6: Practice – Automating Tasks with Blender Scripting + Marketing Strategy & ROI
+
+
+Objective:
+To develop scripting proficiency in Blender for automating repetitive or complex tasks that support your 3D game creation workflow. Additionally, you will continue to build out your Game Business Plan by focusing on marketing strategies and ROI projections.
+
+
+
+Part 1: Automating Tasks with Scripts (Technical)
+Using Python scripting in Blender, automate part of the 3D creation process for your game scene. This can include generating environments, duplicating and positioning objects, applying materials procedurally, creating animation keyframes programmatically, or setting up render pipelines.
+
+
+
+Tasks (choose at least two from the list):
+Script the creation and positioning of objects in a grid, circle, or random pattern (e.g., placing trees, benches, or lights in a level).
+Automate material assignment or procedural texture setup via scripting.
+Use Python to insert keyframes for animation, like object movement or camera motion.
+Script batch operations like renaming objects, setting modifiers, or exporting files.
+Create UI panels or operators that make your scripts usable by non-technical team members.
+💡 Bonus: Implement a reusable script that could benefit future scenes or streamline your team’s workflow.
+
+
+
+Documentation (200–300 words):
+Include the following in a PDF:
+
+Describe what task(s) you automated and why you chose them.
+Explain how the script works, and include short code snippets or screenshots.
+Reflect on how automation improved your workflow, saved time, or reduced errors.
+Mention any challenges faced while scripting and how they were overcome.
+
+
+Part 2: Marketing Strategy & ROI Analysis (Document)
+Update your Game Business Plan Document with the following sections (800–1000 words):
+
+
+
+Marketing Strategy:
+Target Market: Define your intended audience (demographics, player interests).
+Marketing Channels: Detail the platforms and outreach methods (e.g., TikTok, Discord, press kits).
+Branding and Positioning: What is your game's identity and what sets it apart?
+Marketing Goals: Short- and long-term goals for community building and sales.
+
+
+ROI (Return on Investment) Analysis:
+Revenue Projections: Estimate potential income using your chosen monetization model.
+Costs vs. Expected Profit: Include development, marketing, and any outsourcing costs.
+Break-even Timeline: Estimate how long it will take to recover your investment.
+Investor Appeal: Frame your financial outlook in a way that would appeal to potential investors or publishers.
+
+
+Evaluation Criteria:
+Component: Criteria
+
+Technical Scripting: Relevance of automation task to game workflow, code clarity, and creativity
+
+Documentation: Clear explanation, reflection on impact, and scripting challenges discussed
+
+Marketing & ROI Analysis: Realism, detail, and alignment with your game’s scope and identity
+
+Presentation: Visual clarity, proper formatting, spelling/grammar, and completeness of materials
+

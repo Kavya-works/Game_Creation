@@ -1,0 +1,56 @@
+Assignment 1: Game Concept Proposal + Simple 3D Asset
+
+
+Objective: To define the core concept of your game project and begin development by creating the first 3D asset. This assignment kicks off both the technical development and business planning process for your final project.
+
+
+
+Part 1: Game Concept Proposal (Document)
+Deliver a written proposal (800–1000 words) that outlines the vision for your game and begins the Game Business Plan, which will be expanded throughout the course.
+
+
+
+Your document must include:
+
+Game Overview:
+Working title
+Game genre and platform
+Brief summary of the gameplay (1 paragraph)
+Story & World:
+Main setting and worldbuilding elements
+Narrative premise and themes
+Characters:
+List of main characters or roles (even if abstract or non-human)
+Brief backstory or character purpose
+Initial Game Mechanics:
+Player actions (e.g., jump, interact, attack, solve puzzles)
+Core gameplay loop (what the player does repeatedly)
+
+
+This document is the foundation of your final business plan. As the course progresses, you’ll expand it with more sections like audience, marketing, costs, and ROI.
+
+
+
+Part 2: Simple 3D Model (Technical)
+
+
+Create one simple 3D asset that belongs in your proposed game environment. This could be a prop, terrain feature, or background object.
+
+
+
+Requirements:
+
+Modeled in Blender
+Low-poly and optimized
+Exported in .blend and .fbx format
+In a short appendix (200–300 words), describe:
+How the asset fits into your game world
+Basic modeling workflow used
+
+
+Evaluation Criteria:
+Clarity and creativity of the game concept
+Feasibility of the design
+Relevance and quality of the 3D model
+Document structure, spelling, and grammar
+Evidence of planning for future development

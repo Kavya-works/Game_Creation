@@ -1,0 +1,54 @@
+Assignment 2: Complex 3D Model + Game Genre & Target Audience
+
+
+Objective: To create a more detailed 3D model that will be featured in your game environment, and to define your game’s genre in depth as well as who it's for. This will help ensure your game's design, aesthetics, and mechanics are aligned with a specific audience.
+
+
+
+Part 1: Complex 3D Model (Technical)
+
+
+Design and build a complex 3D asset related to your game concept. This could be:
+
+A modular building structure
+A primary prop or tool
+A detailed environmental feature (e.g., futuristic gate, abandoned vehicle, throne, shrine, etc.)
+
+
+Requirements:
+
+Modeled in Blender
+Must include multiple components, modifiers, and a clean mesh
+Must be optimized for use in a real-time engine (e.g., Unity/Unreal)
+Export both .blend and .fbx files
+
+
+Include a brief design explanation (200–300 words) describing:
+
+What the object is
+How it fits into your game world and mechanics
+Modeling approach and use of modifiers
+
+
+Part 2: Game Genre & Target Audience (Document)
+
+
+Expand your Game Business Plan with a section (600–800 words) that includes:
+
+
+
+Genre Justification:
+Clearly define your game’s genre (e.g., puzzle-platformer, survival horror, action RPG).
+Provide 1–2 examples of successful games in this genre and explain how your game is similar or different.
+Justify why this genre fits your game's story and mechanics.
+Target Audience Analysis:
+Define your primary audience (age, interests, gaming habits, etc.)
+Consider accessibility needs (audio/visual/physical/cognitive)
+Briefly address platform considerations (mobile, desktop, console)
+
+
+Evaluation Criteria:
+Complexity and quality of the 3D model
+Creativity and relevance of genre/audience research
+Integration between design choices and audience expectations
+Writing quality, structure, and visual formatting

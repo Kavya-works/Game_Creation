@@ -1,0 +1,55 @@
+Assignment 4: Textured 3D Model + Core Gameplay Mechanics
+
+
+Objective:To apply UV unwrapping and texture mapping techniques to a previously created 3D model, and to clearly define how your game will play — what the player does, how the systems interact, and what makes the gameplay engaging.
+
+
+
+Part 1: Textured 3D Model (Technical)
+
+
+Use either your complex or optimized 3D model from previous assignments. Perform UV unwrapping and apply textures (hand-painted or procedural) to enhance the visual appeal.
+
+
+
+Tasks:
+
+UV unwrap the model efficiently (minimal stretching, logical seams)
+Create or apply textures using Blender or external tools (e.g., Photoshop, Substance)
+Export .blend, .fbx, and associated texture files (PNG/JPG/TIFF)
+Render a few preview images of the textured model (with lighting if desired)
+
+
+Documentation (200–300 words):
+
+UV layout rationale (how and why you placed seams)
+Texture resolution and type (diffuse, normal, etc.)
+How the texturing aligns with the visual theme of your game
+
+
+Part 2: Core Mechanics & Gameplay Systems (Document)
+
+
+Add a new section to your Game Business Plan (700–1000 words) covering the gameplay design, including:
+
+
+
+Core Gameplay Loop:
+Describe what the player will be doing most of the time.
+Outline the rhythm or flow of gameplay (e.g., explore > collect > upgrade > repeat).
+Mechanics & Systems:
+Explain key mechanics (e.g., combat, puzzle-solving, dialogue, crafting).
+Include diagrams or system flowcharts if applicable.
+Player Progression:
+How will players grow? (Levels, upgrades, story progression, etc.)
+What motivates continued play?
+Replayability & Depth:
+Will the game include randomness, branching paths, collectibles, etc.?
+How does it encourage repeat engagement?
+
+
+Evaluation Criteria:
+Quality of UV unwrap and texture application
+Consistency of textures with game style
+Clarity and depth in describing gameplay mechanics
+Use of visuals to support system explanations (where applicable)

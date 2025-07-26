@@ -1,0 +1,61 @@
+Assignment 5: Advanced Materials + Monetization & Development Cost Plan
+
+
+Objective:To develop advanced materials using BlenderKit or custom shader setups, giving your game assets polished visual depth, and to define how your game will generate revenue alongside an early-stage development cost estimate.
+
+
+
+Part 1: Advanced Materials (Technical)
+
+
+Create a new asset for your game. Using BlenderKit or manual shader node setups, apply materials to bring realism, style, or atmosphere in line with your game’s visual identity.
+
+
+
+Tasks:
+
+Apply PBR (Physically Based Rendering) materials via BlenderKit or create custom shaders
+Use shader nodes to combine normal maps, specular, roughness, etc.
+Create at least two versions of the material:
+One realistic or physically accurate
+One stylized or customized to your game’s theme
+Submit .blend file and preview renders (min. 2 angles each version)
+
+
+Documentation (200–300 words):
+
+Compare both material versions: strengths, weaknesses, and visual purpose
+Describe material/shader nodes used
+Justify which version fits your game better and why
+
+
+Part 2: Monetization & Development Costs (Document)
+
+
+Add a new section to your Game Business Plan (700–900 words) addressing the financial strategy:
+
+
+
+Monetization Strategy:
+Will your game be paid, free-to-play, freemium, ad-supported, etc.?
+If relevant, describe in-game purchases, cosmetics, DLC, or subscriptions
+Justify pricing model based on audience and platform
+Cost Breakdown:
+Estimate costs for development, including:
+Tools/software licenses (Blender is free, but others?)
+Team roles (art, programming, marketing, QA)
+Asset store purchases or plugins
+Distribution/publishing
+Indicate scope: solo indie, small team, or outsourcing involved?
+Funding Approach:
+Will you self-fund, crowdfund, seek investors, or apply for grants?
+Provide a rationale for the chosen approach
+
+
+Evaluation Criteria:
+
+
+Depth and quality of material/shader work
+Aesthetic relevance to the game’s theme
+Clarity and realism in financial planning
+Critical thinking on monetization ethics and audience impact

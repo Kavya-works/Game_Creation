@@ -1,0 +1,55 @@
+Assignment 3: Optimized 3D Model + Market Research & Competitive Analysis
+
+
+Objective: To apply polygonal modeling optimization techniques to one of your existing assets, ensuring performance efficiency for game engines, and to conduct a basic market analysis to position your game in the current industry landscape.
+
+
+
+Part 1: Optimized 3D Model (Technical)
+
+
+Take either your Assignment 1 or Assignment 2 model and apply optimization techniques to make it game-engine ready.
+
+
+
+Tasks:
+
+Apply modifiers like Decimate or Retopology (manual or auto)
+Reduce unnecessary edge loops/vertices
+Ensure clean UV layout and naming conventions
+Compare the poly count before and after optimization
+Provide both the original and optimized .blend and .fbx files
+
+
+Documentation (200–300 words):
+
+Describe the optimization process
+Tools and techniques used (e.g., Modifiers, Cleanup tools)
+Before/after poly count comparison
+How optimization affects game performance and quality
+
+
+Part 2: Market Research & Competitive Analysis (Document)
+
+
+Expand your Game Business Plan with a new section (700–900 words) that includes:
+
+
+
+Industry Context:
+Brief overview of the current trends in your game’s genre
+Emerging technologies or indie developer trends relevant to your game
+Competitive Analysis:
+Identify and analyze 2–3 competing games in the same genre and/or targeting the same audience
+Discuss their strengths, weaknesses, and market reception
+Explain how your game is different and what unique value it offers
+Positioning Strategy:
+How will your game stand out?
+What will attract your audience away from the competition?
+
+
+Evaluation Criteria:
+Effectiveness of optimization (visual quality vs. performance)
+Quality and depth of competitive analysis
+Clarity in explaining market fit and differentiation
+Document formatting, research quality, and citations (where applicable)
